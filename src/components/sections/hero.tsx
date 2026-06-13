@@ -32,11 +32,14 @@ export function Hero() {
             {siteConfig.tagline}
           </p>
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted">
-            Engineering professional with experience spanning Mechanical
-            Engineering, Security Systems, Project Management, Information
-            Management, and Modern Software Development. Passionate about
-            building systems that improve efficiency, transparency, and
-            operational excellence.
+            Dedicated Software Developer with experience in React.js,
+            TypeScript, JavaScript, and modern frontend technologies. Skilled in
+            building scalable web applications, collaborating with
+            cross-functional teams, and managing projects using Agile
+            methodologies. Experienced in project management, software
+            development, and Generative AI technologies. Passionate about
+            creating innovative digital solutions and continuously improving
+            technical expertise
           </p>
 
           <div className="mt-10 flex flex-wrap gap-4">
@@ -57,7 +60,11 @@ export function Hero() {
         <motion.div
           initial={{ opacity: 0, scale: 0.95 }}
           animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 0.7, delay: 0.2, ease: [0.21, 0.47, 0.32, 0.98] }}
+          transition={{
+            duration: 0.7,
+            delay: 0.2,
+            ease: [0.21, 0.47, 0.32, 0.98],
+          }}
           className="flex justify-center lg:justify-end"
         >
           <div className="relative">
