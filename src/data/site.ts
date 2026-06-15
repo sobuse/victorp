@@ -12,7 +12,7 @@ export const siteConfig = {
   contact: {
     email: "vicagbi2017@gmail.com",
     phone: "08033460333",
-    linkedin: "https://linkedin.com/in/victoragbi",
+    linkedin: "https://www.linkedin.com/in/victor-agbi-4939b827b/",
     github: "https://github.com/vicAgbi",
   },
   navLinks: [
